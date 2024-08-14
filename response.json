@@ -1,0 +1,29 @@
+{
+    "ui_type": "",
+    "data" : {
+        "text" : {
+            "content" : "<<content>>"
+        },
+        "image" : {
+            "src" : "<<base64 code>>",
+            "alt": ""
+        },
+        "link" : {
+            "url" : "<<url>>",
+            "content" : "<<the content showed on the interface>>"
+        },
+        "code" : {
+            "language" : "<<the language of code>>",
+            "content" : "<<code>>"
+        },
+        "table" : {
+            "thead" : "<<the head of table>>",
+            "tbody" : [],
+            "tfoot" : "<<the foot of table>>"
+        },
+        "button" : {
+            "name": "<<the content showed on the button>>",
+            "function": "<<the function to be executed upon click>>"
+        }
+    }
+}
